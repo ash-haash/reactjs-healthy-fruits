@@ -1,3 +1,35 @@
+# About this site:
+This site is about Healthy fruit. Helping you to choose and buy most benefitial fruits for your health. 
+I have also mentioned which fruit contains which vitamin.
+
+# What we used to build this site: 
+First of all, I created our own .JSON data. Created an object then converted it to .JSON through online converting site.
+Then I used React Components to get the JSON data and to display it to the site.
+I used react useEffect and useState to get and display the data.
+For this site I used vanilla CSS, no framework have used.
+I used fontawesome react library to use cart icon on evert button card. 
+
+# Note.
+As an student we are still learning, there are lot of scope in this site to improve, which I will make in future. This is just our beginning in the React world.
+This is just the start... more yet to come...!
+
+Thanks for reading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
