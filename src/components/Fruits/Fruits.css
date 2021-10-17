@@ -1,0 +1,15 @@
+.fruits-container{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.fruit-container{
+    background-color: #e7f8fa;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    align-items: center;
+    justify-content: center;
+}

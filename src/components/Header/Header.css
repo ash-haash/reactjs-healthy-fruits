@@ -1,0 +1,21 @@
+.header{
+    background: #002677;
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header h1{
+    font-size: 50px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.header h2{
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+.header h4{
+    margin-top: 0px;
+}

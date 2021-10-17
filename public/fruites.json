@@ -1,0 +1,65 @@
+ [
+  {
+    "name": "Apple",
+    "contains": "Vitamin C",
+    "img": "https://www.jessicagavin.com/wp-content/uploads/2020/10/winesap-apples.jpg",
+    "origin": "Kazakhstan",
+    "price": 2
+  },
+  {
+    "name": "Avocados",
+    "contains": "Vitamin C, B",
+    "img": "https://solidstarts.com/wp-content/uploads/introducing-avocado-to-babies.jpg",
+    "origin": "Mexico",
+    "price": 8
+  },
+  {
+    "name": "Bananas",
+    "contains": "Vitamin B, M",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/banana-wallpaper-royalty-free-image-172876004-1564092023.jpg?crop=1.00xw:0.791xh;0,0.0123xh&resize=768:*",
+    "origin": "Malaysia",
+    "price": 1.5
+  },
+  {
+    "name": "Mangos",
+    "contains": "Vitamin C",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mangoes-composition-royalty-free-image-463651383-1564092088.jpg?crop=0.668xw:1.00xh;0.322xw,0&resize=768:*",
+    "origin": "India",
+    "price": 6
+  },
+  {
+    "name": "Cherries",
+    "contains": "Vitamin A, C",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/large-collection-of-fresh-red-cherries-royalty-free-image-186818188-1564092044.jpg?crop=0.66667xw:1xh;center,top&resize=768:*",
+    "origin": "Asia Minor",
+    "price": 7
+  },
+  {
+    "name": "Oranges",
+    "contains": "Vitamin C",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/oranges-royalty-free-image-185311721-1564092007.jpg?crop=0.670xw:1.00xh;0.211xw,0&resize=768:*",
+    "origin": "China",
+    "price": 1
+  },
+  {
+    "name": "Grapes",
+    "contains": "Vitamin B, D",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/full-frame-shot-of-grapes-royalty-free-image-683832755-1564091979.jpg?crop=0.66635xw:1xh;center,top&resize=768:*",
+    "origin": "Central Asia",
+    "price": 3
+  },
+  {
+    "name": "Pineapple",
+    "contains": "Vitamin C, M",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pineapple-chunks-royalty-free-image-1618601326.?crop=0.66682xw:1xh;center,top&resize=768:*",
+    "origin": "America",
+    "price": 4
+  },
+  {
+    "name": "Strawberries",
+    "contains": "Vitamin C, I",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/strawberry-royalty-free-image-167866478-1564091833.jpg?crop=0.67545xw:1xh;center,top&resize=768:*",
+    "origin": "England",
+    "price": 6
+  }
+]
